@@ -1,0 +1,90 @@
+.viewmore{
+    background-color: #ffd200;
+    padding: 10px;
+    font-weight: 600;
+    border-radius: 10px;
+    color: black;
+}
+.viewmore{
+    text-decoration: none;
+width: 150px;
+}
+.card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.card-title{
+    color: #615EFC;
+    font-size: medium;
+    
+}
+.btn-primary{
+    background-color: #37275e;
+    border: none;
+    width: 131px;
+    height: 39px;
+    font-weight: 600;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 5px;
+}
+.btn-primary ,a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600 !important;
+}
+.btn-success{
+    background-color: #ffd200;
+    border: none;
+    width: 113px;
+    height: 39px;
+    font-weight: 600;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 5px;
+}
+.btn-success ,a{
+    text-decoration: none;
+    color:white;
+}
+/* watsapp button */
+.call-button, .whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: #25D366;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 60px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+.call-button {
+    left: 20px;
+}
+
+.whatsapp-button {
+    right: 20px;
+    background-color: #4cd630;
+}
+
+.call-button i, .whatsapp-button i {
+    font-size: 24px;
+}
+
+.call-button:hover, .whatsapp-button:hover {
+    opacity: 0.8;
+}
+
+
+.callnow{
+    background-color: #25D366;
+}
+
+.boxtaxi{
+    border: 5px solid black;
+    margin-bottom: 20px;
+}
+tr,td,table{
+    border: 2px solid black;
+}
